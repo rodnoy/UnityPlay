@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Prefabs2.unity
+    guid: 3640a7872f3ca4a02906b1747c581242
+  - enabled: 1
+    path: Assets/Scenes/HandTrakinPrefabs.unity
+    guid: bf734ae154c454b58a76c2b5c49d8639
   m_configObjects: {}
